@@ -1,0 +1,26 @@
+<resources>
+    //General
+    <string name="app_name">Bitumen Quality</string>
+    <string name="action_Bitumen">Bitumen</string>
+    <string name="action_settings">Settings</string>
+    <string name="editText_Bitumen_Sort">Sorte</string>
+    <string name="editText_Bitumen_Note">Note</string>
+    <string name="butteon_add">+</string>
+
+    //Exeption
+    <string name="output_HelloWorld">Hello world!</string>
+    <string name="output_errorMessage">No empty Value</string>
+    <string name="title_activity_bitumen_datenban">BitumenDatenbanActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string-array name="Bitumensorten">
+    <item>70/100</item>
+    <item>Nytop</item>
+    <item>60/100</item>
+    </string-array>
+
+    <string-array name="Lieferant">
+        <item>ÖMV</item>
+        <item>Russische Mafia</item>
+    </string-array>
+</resources>
